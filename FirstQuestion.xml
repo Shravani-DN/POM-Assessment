@@ -6,7 +6,7 @@
         <parameter name="username" value="standard_user"/>
         <parameter name="password" value="secret_sauce"/>
         <classes>
-            <class name="onePositiveFlowSauce.QuestionOne"/>
+            <class name="onePositiveFlow.FirstQuestion"/>
         </classes>
     </test>
 </suite>
